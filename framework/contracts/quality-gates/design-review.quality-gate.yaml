@@ -1,0 +1,7 @@
+id: design-review
+type: managed
+source: gamas://quality-gates/design-review@1.0.0
+visibility: contract
+owner: gamas-framework
+summary: Checks whether design decisions are consistent, usable and aligned with product goals.
+implementation: managed

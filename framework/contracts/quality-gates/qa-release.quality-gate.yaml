@@ -1,0 +1,7 @@
+id: qa-release
+type: managed
+source: gamas://quality-gates/qa-release@1.0.0
+visibility: contract
+owner: gamas-framework
+summary: Checks whether a release is ready based on scope, tests, risk and rollout notes.
+implementation: managed

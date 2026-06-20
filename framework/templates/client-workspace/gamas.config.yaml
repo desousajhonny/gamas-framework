@@ -1,0 +1,13 @@
+schema: gamas://schemas/gamas-config@1.0.0
+kind: gamas-config
+framework: gamas-framework
+agent: Gamas
+model_policy:
+  mode: model-agnostic
+  required_provider: none
+managed_resources:
+  resolution: gamas-registry
+  local_visibility: contracts
+runtime_state:
+  path: .gamas
+  system_managed: true

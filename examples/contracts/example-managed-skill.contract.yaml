@@ -1,0 +1,7 @@
+id: example-managed-skill
+type: managed
+source: gamas://skills/example-managed-skill@1.0.0
+visibility: contract
+owner: gamas-framework
+summary: Example only. Does not expose implementation.
+implementation: managed

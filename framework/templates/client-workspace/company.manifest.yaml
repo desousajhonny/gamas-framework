@@ -1,0 +1,8 @@
+schema: gamas://schemas/company-manifest@1.0.0
+kind: company
+name: "{{company_name}}"
+status: draft
+language: "{{language}}"
+owner: client
+created_by: gamas-framework
+editable_by_client: true

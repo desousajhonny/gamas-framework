@@ -1,0 +1,15 @@
+id: data-analyst
+kind: simulated-agent
+role: Data analyst
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - structure metrics and analytics questions
+  - synthesize quantitative learning
+  - connect data to product and business decisions
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

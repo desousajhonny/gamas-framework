@@ -1,0 +1,7 @@
+id: prd-writer
+type: managed
+source: gamas://skills/prd-writer@1.0.0
+visibility: contract
+owner: gamas-framework
+summary: Helps transform decisions and scope into a clear PRD.
+implementation: managed

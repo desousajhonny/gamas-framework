@@ -1,0 +1,15 @@
+id: ceo-orchestrator
+kind: simulated-agent
+role: CEO and strategy orchestrator
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - connect strategy, decisions, roadmap and operations
+  - define priorities and approval gates
+  - keep the company direction coherent
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

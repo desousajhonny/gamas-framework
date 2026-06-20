@@ -1,0 +1,7 @@
+id: code-review
+type: managed
+source: gamas://quality-gates/code-review@1.0.0
+visibility: contract
+owner: gamas-framework
+summary: Checks code readiness, risk, maintainability and review requirements.
+implementation: managed

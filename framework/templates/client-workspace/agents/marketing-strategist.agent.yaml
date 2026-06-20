@@ -1,0 +1,15 @@
+id: marketing-strategist
+kind: simulated-agent
+role: Marketing strategist
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - connect positioning to channels and content
+  - plan launches and campaigns
+  - capture market signals
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

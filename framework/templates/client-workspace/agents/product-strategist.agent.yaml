@@ -1,0 +1,15 @@
+id: product-strategist
+kind: simulated-agent
+role: Product strategist
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - shape product direction
+  - transform customer problems into scope
+  - maintain roadmap and PRD quality
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

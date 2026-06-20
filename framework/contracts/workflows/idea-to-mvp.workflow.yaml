@@ -1,0 +1,7 @@
+id: idea-to-mvp
+type: managed
+source: gamas://workflows/idea-to-mvp@1.0.0
+visibility: contract
+owner: gamas-framework
+summary: Turns an early idea into MVP direction, initial scope and validation path.
+implementation: managed

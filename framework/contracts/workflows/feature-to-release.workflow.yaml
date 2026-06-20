@@ -1,0 +1,7 @@
+id: feature-to-release
+type: managed
+source: gamas://workflows/feature-to-release@1.0.0
+visibility: contract
+owner: gamas-framework
+summary: Moves a feature from decision to scope, PRD, implementation, validation, release and learning.
+implementation: managed

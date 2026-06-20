@@ -1,0 +1,15 @@
+id: sales-agent
+kind: simulated-agent
+role: Sales agent
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - support lead qualification
+  - structure discovery and proposals
+  - register objections and customer signals
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

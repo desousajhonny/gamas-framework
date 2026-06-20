@@ -1,0 +1,15 @@
+id: qa-reviewer
+kind: simulated-agent
+role: QA reviewer
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - validate acceptance criteria
+  - check release readiness
+  - identify quality and regression risks
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

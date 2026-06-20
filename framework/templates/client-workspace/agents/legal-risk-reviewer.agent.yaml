@@ -1,0 +1,15 @@
+id: legal-risk-reviewer
+kind: simulated-agent
+role: Legal and risk reviewer
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - identify legal, privacy and compliance risks
+  - flag sensitive decisions
+  - support approval gates for risky actions
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

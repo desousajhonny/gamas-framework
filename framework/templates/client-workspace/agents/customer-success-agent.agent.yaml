@@ -1,0 +1,15 @@
+id: customer-success-agent
+kind: simulated-agent
+role: Customer success agent
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - support onboarding and support triage
+  - synthesize customer feedback
+  - connect support signals to product learning
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

@@ -1,0 +1,15 @@
+id: operations-manager
+kind: simulated-agent
+role: Operations manager
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - maintain operating cadence
+  - monitor workflows and handoffs
+  - reduce operational ambiguity
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

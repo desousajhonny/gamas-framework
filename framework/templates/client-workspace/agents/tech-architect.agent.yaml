@@ -1,0 +1,15 @@
+id: tech-architect
+kind: simulated-agent
+role: Technical architect
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - reason about architecture and technical risks
+  - support implementation planning
+  - align technical choices with product goals
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

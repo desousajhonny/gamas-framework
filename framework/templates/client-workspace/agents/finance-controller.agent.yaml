@@ -1,0 +1,15 @@
+id: finance-controller
+kind: simulated-agent
+role: Finance controller
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - monitor financial signals
+  - support pricing and cost decisions
+  - connect business choices to financial impact
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

@@ -1,0 +1,7 @@
+id: prd-standard
+type: managed
+source: gamas://quality-gates/prd-standard@1.0.0
+visibility: contract
+owner: gamas-framework
+summary: Checks whether a PRD has clear problem, scope, acceptance criteria and release expectations.
+implementation: managed

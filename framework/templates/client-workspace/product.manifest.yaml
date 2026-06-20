@@ -1,0 +1,9 @@
+schema: gamas://schemas/product-manifest@1.0.0
+kind: product
+name: "{{product_name}}"
+status: "{{product_stage}}"
+repository:
+  type: "{{repository_type}}"
+  value: "{{repository_value}}"
+owner: client
+editable_by_client: true

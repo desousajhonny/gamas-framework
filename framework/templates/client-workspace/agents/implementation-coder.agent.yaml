@@ -1,0 +1,15 @@
+id: implementation-coder
+kind: simulated-agent
+role: Implementation coder
+status: configurable
+owner: client
+operated_by: Gamas
+responsibilities:
+  - implement scoped product changes
+  - follow technical plan and quality gates
+  - produce code-ready outputs for coding agents
+notes:
+  - agent is not a skill
+  - skill is a reusable capability
+  - workflow is an operational sequence
+  - simulated agent is an operational role used by Gamas

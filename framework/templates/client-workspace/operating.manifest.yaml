@@ -1,0 +1,13 @@
+schema: gamas://schemas/operating-manifest@1.0.0
+kind: operating-model
+active_departments:
+  - strategy
+  - product
+  - operations
+  - qa
+  - data
+managed_resources_policy: contracts_only
+approval_gates:
+  critical_actions: required
+  release: required
+  managed_paid_resources: required

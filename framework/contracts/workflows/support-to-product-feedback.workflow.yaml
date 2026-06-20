@@ -1,0 +1,7 @@
+id: support-to-product-feedback
+type: managed
+source: gamas://workflows/support-to-product-feedback@1.0.0
+visibility: contract
+owner: gamas-framework
+summary: Converts support signals into product feedback, decisions and roadmap inputs.
+implementation: managed

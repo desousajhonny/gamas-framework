@@ -1,0 +1,7 @@
+id: product-model-canvas
+type: managed
+source: gamas://skills/product-model-canvas@1.0.0
+visibility: contract
+owner: gamas-framework
+summary: Helps structure product context, customer, problem, value proposition, channels and success metrics.
+implementation: managed
